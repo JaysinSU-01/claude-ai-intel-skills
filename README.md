@@ -1,4 +1,4 @@
-# Claude AI Intel Skills
+# AI 情报大师
 
 > 基于 Claude Code 的 AI/Agent 领域情报自动化工作流
 
